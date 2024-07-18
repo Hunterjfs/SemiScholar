@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes in a 2 bit number and uses that to count to either 5, 10 or 15 seconds.
 
 ## How to test
 
-Explain how to use your project
+Used to activate the water pump for a certain amount of time. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Water pump, sprinkler, controller, LED Display. 
